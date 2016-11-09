@@ -1,4 +1,6 @@
-
+'''
+   просто игрушка
+'''
 import urllib.request as ul
 from lxml import html
 
